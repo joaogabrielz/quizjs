@@ -1,11 +1,11 @@
-# quiz em Javascript sobre Javascript
-<img alt='print projeto' align="center" height="80" width="80" src="https://media2.giphy.com/media/LOznMvZUKneOhiIscg/giphy.gif">
+# Quiz JS <img alt='print projeto' align="center" height="80" width="80" src="https://media2.giphy.com/media/LOznMvZUKneOhiIscg/giphy.gif">
+
 
 [//]:<> (../master/assets/img/print.png) 
-## Projeto criando um Quiz sobre Javascript Basico👈 
+## Projeto criando um Quiz sobre Javascript usando Javascript Basico👈 
     
 
-<img alt='print projeto' align="center" height="300" width="280" src="../master/img/">
+<img alt='print projeto' align="center" height="200" width="300" src="../master/print.png">
 
 ## Click para ver: <a href='https://joaogabrielz.github.io/quizjs/'>Deploy</a> 👈 
 
